@@ -9,3 +9,7 @@ Synchronized by signal-slot mechanism;
 Structure referred to:
 
 1.Mitchell, Melanie. "Copycat: A computer model of high-level perception and conceptual slippage in analogy-making." (1992).
+
+
+---2018-10-05---
+Reopened.
