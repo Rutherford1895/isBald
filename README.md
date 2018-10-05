@@ -13,3 +13,4 @@ Structure referred to:
 
 ---2018-10-05---
 Reopened.
+Reopened on Linux
